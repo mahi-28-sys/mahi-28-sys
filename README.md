@@ -10,7 +10,7 @@ I have also completed a Full Stack Java Web Development internship at Prinston S
 
 - Python
 - Java
-- HTML & CSS
+- HTML5 & CSS3
 - JavaScript
 - React
 - MongoDB
