@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mahima 👋
 
-<!--
-**mahi-28-sys/mahi-28-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Graduate  
+🐍 Pursuing Python Full Stack + GenAI  
+🚀 Former Full Stack Java Web Development Intern @ Prinston Smart Engineers
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML
+- CSS
+- JavaScript
+- React
+- MongoDB
+- Git & GitHub
+
+## 📌 Projects
+
+- Children Handwriting Behavioural Detection
+- T-Shirt Selling Website
+
+## 🎯 Currently Learning
+
+- Python Full Stack Development
+- Generative AI
