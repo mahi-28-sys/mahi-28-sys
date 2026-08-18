@@ -1,25 +1,28 @@
-# Hi, I'm Mahima 👋
+# Hi, I'm Mahima M Karanth
 
-💻 Computer Science Graduate  
-🐍 Pursuing Python Full Stack + GenAI  
-🚀 Former Full Stack Java Web Development Intern @ Prinston Smart Engineers
+I'm a Computer Science graduate interested in software and web development.
 
-## 🛠️ Skills
+Currently, I'm pursuing a Python Full Stack with Generative AI course at Dhee Coding Lab, where I'm building my skills in Python, web development, and AI.
+
+I have also completed a Full Stack Java Web Development internship at Prinston Smart Engineers, where I gained practical experience in developing web applications.
+
+## Skills
 
 - Python
-- HTML
-- CSS
+- Java
+- HTML & CSS
 - JavaScript
 - React
 - MongoDB
 - Git & GitHub
 
-## 📌 Projects
+## Projects
 
-- Children Handwriting Behavioural Detection
+- Children Handwriting Behaviour Detection
 - T-Shirt Selling Website
 
-## 🎯 Currently Learning
+## Currently Learning
 
-- Python Full Stack Development
-- Generative AI
+Python Full Stack Development and Generative AI
+
+I'm interested in learning new technologies and building practical projects that improve my development skills.
