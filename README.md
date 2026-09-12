@@ -10,7 +10,7 @@ I have also completed a Full Stack Web Development internship at Prinston Smart 
 
 - Python
 - Java
-- HTML5 & CSS
+- HTML5 & CSS3
 - MySQL
 - JavaScript
 - React
